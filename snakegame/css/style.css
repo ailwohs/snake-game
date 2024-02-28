@@ -18,7 +18,7 @@ body {
 }
 
 canvas {
-    background-color: #111;
+    background-color: #fd97e4;
 }
 
 .score {
@@ -60,7 +60,7 @@ canvas {
     padding: 10px 15px 10px 12px;
     font-size: 1rem;
     font-weight: 600;
-    color: #333;
+    color: #be0f76;
     margin-top: 40px;
     display: flex;
     align-items: center;
